@@ -1,46 +1,46 @@
-# Code of Conduct
+# Davranış Kuralları
 
-## Our Pledge
+## Sözümüz
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual orientation.
+Katılımcılar ve yürütücüler olarak bizler; yaş, vücut büyüklüğü, engellilik, etnik köken, cinsiyet kimliği ve ifadesi, deneyim düzeyi, uyruk, kişisel görünüm, ırk, din veya cinsel yönelimden bağımsız olarak projemize ve topluluğumuza katılımı herkes için tacizden uzak bir deneyim haline getirmeyi taahhüt ediyoruz.
 
-## Our Standards
+## Standartlarımız
 
-Examples of behavior that contributes to creating a positive environment include:
+Olumlu bir ortama katkıda bulunan davranış örnekleri şunlardır:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* Karşılayıcı ve kapsayıcı dil kullanmak
+* Farklı bakış açılarına ve deneyimlere saygılı olmak
+* Yapıcı eleştirileri nezaketle kabul etmek
+* Topluluk için en iyi olana odaklanmak
+* Diğer topluluk üyelerine karşı empati göstermek
 
-Examples of unacceptable behavior by participants include:
+Katılımcılar tarafından kabul edilemez davranış örnekleri şunlardır:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Cinselleştirilmiş dil veya imgeleme kullanımı ve istenmeyen cinsel ilgi veya yaklaşımlar
+* Trolleme, aşağılayıcı/hakaret içerikli yorumlar ve kişisel veya siyasi saldırılar
+* Kamusal veya özel taciz
+* Diğerlerinin fiziksel veya elektronik adresleri gibi özel bilgilerini açık izinleri olmadan yayınlamak
+* Profesyonel bir ortamda uygunsuz sayılabilecek diğer davranışlar
 
-## Our Responsibilities
+## Sorumluluklarımız
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Proje yürütücüleri, kabul edilebilir davranış standartlarını netleştirmekten sorumludur ve herhangi bir kabul edilemez davranış durumunda uygun ve adil düzeltici önlemleri almaları beklenir.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Proje yürütücüleri; bu Davranış Kurallarına uygun olmayan yorumları, commitleri, kodları, wiki düzenlemelerini, issue'ları ve diğer katkıları kaldırma, düzenleme veya reddetme hakkına ve sorumluluğuna sahiptir. Ayrıca uygunsuz, tehdit edici, saldırgan veya zararlı buldukları davranışlar nedeniyle herhangi bir katılımcıyı geçici veya kalıcı olarak yasaklayabilirler.
 
-## Scope
+## Kapsam
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Bu Davranış Kuralları, hem proje alanları içinde hem de bir bireyin projeyi veya topluluğunu temsil ettiği kamusal alanlarda geçerlidir. Bir projeyi veya topluluğu temsil etme örnekleri arasında resmi bir proje e-posta adresi kullanmak, resmi bir sosyal medya hesabı üzerinden paylaşım yapmak veya çevrimiçi veya çevrimdışı bir etkinlikte atanmış bir temsilci olarak hareket etmek yer alır. Projenin temsili, proje yürütücüleri tarafından daha detaylı tanımlanabilir ve netleştirilebilir.
 
-## Enforcement
+## Uygulama
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Kötüye kullanım, taciz veya diğer kabul edilemez davranış durumları proje ekibine bildirilmelidir. Tüm şikayetler incelenecek ve araştırılacak, duruma göre gerekli ve uygun görülen bir yanıtla sonuçlanacaktır. Proje ekibi, bir olayı bildiren kişinin gizliliğini korumakla yükümlüdür. Belirli uygulama politikalarının daha fazla ayrıntısı ayrı olarak yayınlanabilir.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Davranış Kurallarına iyi niyetle uymayan veya bunları uygulamayan proje yürütücüleri, projenin liderliğinin diğer üyeleri tarafından belirlenen geçici veya kalıcı yaptırımlarla karşılaşabilir.
 
-## Attribution
+## Atıf
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+Bu Davranış Kuralları, [Contributor Covenant][homepage], sürüm 1.4'ten uyarlanmıştır. [http://contributor-covenant.org/version/1/4][version] adresinden erişilebilir.
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4
