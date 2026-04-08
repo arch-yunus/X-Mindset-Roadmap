@@ -126,13 +126,18 @@ Bu zihniyeti tam olarak yüklemek için onu şekillendiren temel metinleri özü
 
 ## 🏁 Repo Mimarisi ve Kullanım
 
-Bu çerçeve, otonom yürütme için uzmanlaşmış yollara ayrılmıştır:
+Bu çerçeve, otonom yürütme ve zihinsel derinlik biriktirmek için 10 uzmanlaşmış yola (track) ayrılmıştır:
 
-- [🚀 01_Temel_Ilkeler](01_Temel_Ilkeler/README.md) - Teorik çekirdek ve Aksiyomatizasyon metotları.
-- [🚀 02_Algoritma](02_Algoritma/README.md) - 5 adımlı mühendislik protokolünün derinlemesine analizi.
-- [🚀 03_Sert_Muhendislik](03_Sert_Muhendislik/README.md) - Sistem mimarisi, C++ ve AI.
-- [🚀 04_Stratejik_Girisim_Tasarimi](04_Stratejik_Girisim_Tasarimi/README.md) - Risk yönetimi ve R&D tahsis mantığı.
-- [🚀 05_Meta_Muhendislik](05_Meta_Muhendislik/README.md) - "Makinayı inşa eden makina" üzerine dokümantasyon.
+- [🚀 01_Ilk_Prensipler_Dusunme](01_Ilk_Prensipler_Dusunme/README.md) - Teorik çekirdek ve Aksiyomatizasyon metotları.
+- [🚀 02_Ana_Algoritma](02_Ana_Algoritma/README.md) - 5 adımlı mühendislik protokolünün derinlemesine analizi.
+- [🚀 03_Muhendislik_Fizigi](03_Muhendislik_Fizigi/README.md) - Sistem bağımlılıkları ve Tsiolkovsky denklemi modelleri.
+- [🚀 04_Vaka_Analizleri](04_Vaka_Analizleri/README.md) - İlk Prensiplerin gerçek dünya verilerine uygulanması.
+- [🚀 05_Meta_Muhendislik](05_Meta_Muhendislik/README.md) - "Makinayı inşa eden makina" dokümantasyonu.
+- [🚀 06_Sert_Muhendislik](06_Sert_Muhendislik/README.md) - Sistem mimarisi, C++ ve AI.
+- [🚀 07_Stratejik_Girisim_Tasarimi](07_Stratejik_Girisim_Tasarimi/README.md) - Risk yönetimi ve R&D tahsis mantığı.
+- [🚀 08_Monk_Mode](08_Monk_Mode/README.md) - Operasyonel protokol ve bilişsel yüksek sadakat.
+- [🚀 09_Yurutme_ve_Etik](09_Yurutme_ve_Etik/README.md) - Sinyal-gürültü oranı ve kritik yol saldırıları.
+- [🚀 10_Mufredat](10_Mufredat/README.md) - Zorunlu okuma listesi ve zihinsel müfredat.
 
 ---
 
