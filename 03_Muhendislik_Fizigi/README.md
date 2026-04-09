@@ -1,29 +1,21 @@
 # 🚀 03_Muhendislik_Fizigi (Engineering Physics)
 
-> **"Fizik kanundur, geri kalan her şey bir öneridir."**
+> **"Kısıtlamaları fiziksel limitlere kadar itin. Geriye kalan her şey pazarlık edilebilir."**
 
-Mühendislik Fiziği, sistem tasarımının en temel kısıtlamalarını ve teorik kapasitesini belirleyen bölümdür. X-Mindset'te her mühendislik kararı, analoji yerine fiziksel gerçekliklere dayanmalıdır.
+![Track 03 Banner](../assets/track_03.png)
+
+# ⚙️ 03: Mühendislik Fizigi (Engineering Physics)
+
+Bu track, sistemlerin teorik sınırlarını belirlemek için kullanılan matematiksel ve fiziksel modelleri içerir. Eğer bir sistemin fiziksel limitlerini bilmiyorsanız, onu optimize edemezsiniz.
 
 ---
 
-## 🔬 Temel Zihinsel Modeller
+## 🚀 Tsiolkovsky Roket Denklemi (Sistem Analojisi)
 
-### 1. Tsiolkovsky Roket Denklemi ve Sistem Bağımlılıkları
-Sisteminizdeki her ek özelliğe, kütüphaneye veya parçaya fiziksel bir kütle ($m$) gibi davranın.
+Mühendislikte her bağımlılık bir "kütle"dir. Projenizin hızı ($\Delta v$), çekirdek değerinizin ($m_f$) toplam yüke ($m_0$) oranına bağlıdır.
 
 $$\Delta v = v_e \ln \left( \frac{m_0}{m_f} \right)$$
 
-* **Ders:** Kütlenin ($m_0$) her bir birim artışı, sistemin hedefe ulaşma hızını ($\Delta v$) logaritmik olarak engeller. Verimli bir sistem için kütleyi (bağımlılıkları) mutlak minimumda tutun.
-
-### 2. Enerji Yoğunluğu ve Verimlilik Sınırları
-Bir teknolojinin gelecekteki ölçeklenebilirliğini anlamak için mevcut fiyatına değil, teorik fiziksel limitlerine bakın:
-- **Özgül Enerji ($Wh/kg$):** Kimyasal reaksiyonların teorik kapasitesi nedir?
-- **Hesaplama Yoğunluğu ($FLOPS/W$):** Landauer Sınırı (bir bitlik bilgiyi silmek için gereken minimum enerji) nerede?
-
----
-
-## 🛠 Uygulama Alanları
-- **Donanım Tasarımı:** Malzeme seçimi ve yapısal bütünlük (Structures).
 - **Yazılım Mimarisi:** Algoritmik karmaşıklık ve donanım kullanımı.
 - **Sistem Entegrasyonu:** Enerji yönetimi ve termal kısıtlamalar.
 
