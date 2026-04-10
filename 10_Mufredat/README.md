@@ -1,31 +1,49 @@
-# 🚀 10_Mufredat (Mandatory Reading)
+![Track 10 Banner](../assets/track_10.png)
 
-> **"Bilgi birikimlidir. Her gün daha fazla okuyun."**
+# 📚 10: Müfredat (The Core Curriculum)
 
-Müfredat, X-Mindset zihniyetini tam olarak "yüklemek" için özümsenmesi gereken temel metinlerin birleşimidir. Bu eserler fiziksel sezgi, sistemik düşünme ve stratejik vizyon kazandırır.
+> **"Bilgi, sisteminizin çıkış vektörünü besleyen ana yakıttır."**
 
----
-
-## 📚 Temel Okuma Listesi
-
-### 1. Mühendislik ve Fizik
-- **Structures: Or Why Things Don't Fall Down (J.E. Gordon):** Donanım sezgisi ve temel yapısal tasarımın İlk Prensipleri.
-- **Physics for Scientists and Engineers (Raymond Serway):** Doğanın mutlak kanunlarını anlamak için temel referans.
-
-### 2. Sistemik Düşünme
-- **Superintelligence (Nick Bostrom):** İleri düzey yapay zeka sistemleri ve stratejik risk yönetimi.
-- **The Hitchhiker's Guide to the Galaxy (Douglas Adams):** Ölçeklenebilirlik, perspektif ve absürt problemlere karşı yaklaşım.
-
-### 3. Strateji ve Girişimcilik
-- **Elon Musk (Walter Isaacson):** İş etiği, agresif yürütme ve kriz yönetimi vaka analizi.
-- **Zero to One (Peter Thiel):** Monopol tasarımı ve gelecek durum analizi.
+X-Mindset, rastgele okumayı değil, hedeflenmiş ve yüksek yoğunluklu bilgi edinmeyi savunur. Bu track, bir "Meta-Mühendis" olmak için gereken temel literatürü kapsar.
 
 ---
 
-## 🛠 Okuma Protokolü
-1. **Not Alın:** Okuduklarınızı İlk Prensipler süzgecinden geçirerek özetleyin.
-2. **Uygulayın:** Öğrendiğiniz her konsepti mevcut projenizdeki bir problem üzerinde test edin.
-3. **Tartışın:** Zorlu fikirleri Meta-Engineering Research Lab ekosisteminde masaya yatırın.
+## 🏛️ Temel Kütüphane (The Foundation)
+
+### 1. Mühendislik ve Yapısal Mantık
+- **"Structures: Or Why Things Don't Fall Down" - J.E. Gordon**
+  * **Özet:** Materyallerin stres, gerilme ve kırılma mekaniğine dair İlk Prensipler analizi. Bir sistemi "yeteri kadar güçlü ama gereksiz derecede ağır olmayan" şekilde tasarlamanın felsefesi.
+  * *[Genişletilmiş Özet](summaries/structures_gordon.md)*
+
+### 2. Stratejik Girişim ve İnovasyon
+- **"Zero to One" - Peter Thiel**
+  * **Özet:** Analoji (kopyalama) yerine dikey ilerleme (o'dan 1'e) mantığı. Bir tekel oluşturmanın ve "yapı inşa etmenin" matematiksel ve sosyal temelleri.
+  * *[Genişletilmiş Özet](summaries/zero_to_one_thiel.md)*
+
+### 3. Sistemik Düşünme ve AI
+- **"Superintelligence" - Nick Bostrom**
+  * **Özet:** Üstün zekalı sistemlerin kontrolü, riskleri ve rekürsif iyileştirme döngüleri. Meta-mühendisliğin (makineyi inşa eden makine) nihai mantıksal sonucu.
+
+### 4. Biyografi ve Pratik Uygulama
+- **"Elon Musk" - Walter Isaacson**
+  * **Özet:** X-Mindset'i oluşturan protokollerin (5 adımlı algoritma, İlk Prensipler) gerçek dünya krizlerinde nasıl uygulandığının kronolojik analizi.
 
 ---
-**Durum:** `Müfredat Tanımlandı`
+
+## 🛠 Teknik Referans Listesi
+- **Fizik:** *The Feynman Lectures on Physics* (Temel aksiyomlar için).
+- **Yazılım:** *Clean Code* & *Code Complete* (Silme ve optimize etme disiplini için).
+- **Yönetim:** *High Output Management* - Andy Grove (Sektörel hız ve verimlilik için).
+
+---
+
+## 📊 Okuma Takibi
+| Kitap | Durum | İlişkili Track |
+| :--- | :--- | :--- |
+| Structures | Tamamlandı | 03_Engineering_Physics |
+| Zero to One | Tamamlandı | 07_Strategic_Venture |
+| Superintelligence | Okunuyor | 05_Meta_Engineering |
+| Elon Musk (Isaacson) | Tamamlandı | 09_Execution_Ethics |
+
+---
+**Durum:** `BİLGİ YÜKLENDİ`

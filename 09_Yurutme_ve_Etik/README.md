@@ -1,34 +1,38 @@
-# 🚀 09_Yurutme_ve_Etik (Tactics & Ethics)
+![Track 09 Banner](../assets/track_09.png)
 
-> **"Bir şeyler başarısız olmuyorsa, yeterince hızlı inovasyon yapmıyorsunuz demektir."**
+# ⚔️ 09: Yürütme ve Etik (Execution & Ethics)
 
-Yürütme Taktikleri ve Sert Etik, projenin kağıt üzerindeki bir plandan fiziksel bir gerçekliğe dönüşme aşamasındaki "sert" operasyonel kuralları kapsar.
+> **"Veri yalan söylemez, insanlar söyler. Her zaman veriye ve fiziğe güvenin."**
 
----
-
-## ⚔️ Operasyonel Taktikler
-
-### 1. Sinyal-Gürültü Oranı (Signal-to-Noise)
-İletişimi mutlak verilere indirgeyin.
-- **Sıfatlardan Arının:** "Çok hızlı", "oldukça büyük" gibi öznel ifadeler yerine "10ms altında", "4.2TB veri" gibi nesnel ölçümler kullanın.
-- **Jargonu Silin:** Kurumsal jargon ve dolgu sözcükleri sadece gürültü yaratır.
-
-### 2. Kritik Yol (Critical Path) Saldırısı
-Proje takvimindeki "Tek Başarısızlık Noktası"na (SPOF) odaklanın.
-- Darboğaz kırılana kadar tüm kaynakları o noktaya agresif bir şekilde saldıracak şekilde konumlandırın.
-- Bir personelin veya departmanın gecikmesinin tüm sistemi durdurmasına izin vermeyin.
-
-### 3. Adversarial Collaboration (Çekişmeli İş Birliği)
-En iyi tasarım, en sert saldırılara dayanan tasarımdır.
-- Her fikri İlk Prensipler süzgecinden geçirerek acımasızca test edin.
-- Egosuz bir şekilde zayıf fikirlerin üzerine gidin ve onları hemen yok edin.
+Yürütme hızı ve sert mühendislik etiği, bir projenin başarısını belirleyen "son 1 mil"dir.
 
 ---
 
-## 🛡️ Sert Etik Standartları
-- **Doğruluk:** "Bence" yerine "Veriye göre" yaklaşımı.
-- **Sorumluluk:** Her hatanın ve her başarının bir sahibi (Owner) vardır.
-- **Hız:** Beklemek israftır. Hareketsizlik, yanlış hareketten daha pahalıya mal olur.
+## ⚡ Sinyal-Gürültü Oranı
+
+İletişimde maksimum yoğunluk, minimum dolgu.
+- **Etik:** Hataları saklamayın. Başarısızlığı derhal bildirin. Mühendislikte dürüstlük, sistem güvenilirliği için kritik bir bileşendir.
+- **Jargon Yok:** Problemleri herkesin anlayabileceği ilk prensipler düzeyinde anlatın.
 
 ---
-**Durum:** `Etik İlkeler Belirlendi`
+
+## 🚀 Kritik Yol Saldırısı (Critical Path Attack)
+
+Projenizi engelleyen en büyük engel (SPOF) nedir?
+- **Protokol:** O engelle (darboğaz) savaşmak yerine onu yok edin. Eğer bir parça gecikiyorsa, o parçayı tasarımdan çıkarmayı (Step 2) düşünün.
+- **Adversarial Collaboration:** Fikrinize saldırılmasına izin verin. Eğer hayatta kalıyorsa, iyidir.
+
+---
+
+## 🛡 Mühendislik Etiği
+1. **Fizik En Yüksek Otoritedir:** Bir yönetici fizik kurallarına aykırı bir şey isterse, fizik haklıdır.
+2. **Hız Sabırdır:** Yavaş olan her saniye, gelecekteki bir kaybın bugünkü ödemesidir.
+3. **Mükemmel İyinin Düşmanıdır:** Çalışmayan bir mükemmel tasarım, mükemmel bir başarısızlıktır.
+
+---
+
+## 📊 Ölçümleme (Signal-to-Noise)
+Gerçek ilerleme ile "meşguliyet" arasındaki farkı metriklerle takip edin. Haftalık `Learning Rate` ölçümü yapın.
+
+---
+**Durum:** `YÜKSEK SADAKAT`

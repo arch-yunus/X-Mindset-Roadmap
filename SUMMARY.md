@@ -10,6 +10,9 @@
   - [Hesaplamanın Fiziksel Sınırları](03_Muhendislik_Fizigi/limits_of_computation.md)
   - [Enerji Yoğunluğu Matrisi](03_Muhendislik_Fizigi/energy_density_matrix.md)
 - [🎯 04. Vaka Analizleri](04_Vaka_Analizleri/README.md)
+  - [SaaS ve Yazılım Kütlesi (m0)](04_Vaka_Analizleri/saas_roi_analysis.md)
+  - [Model 3 ve Otomasyon Hatası](04_Vaka_Analizleri/model3_production_bottleneck.md)
+
 - [🏗️ 05. Meta-Mühendislik](05_Meta_Muhendislik/README.md)
 - [💻 06. Sert Mühendislik](06_Sert_Muhendislik/README.md)
   - [C++ Mühendislik Standartları](06_Sert_Muhendislik/cpp_standards.md)
